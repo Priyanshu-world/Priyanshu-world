@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">Coding Enthusiast | Web developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-world&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-world" /> </p>
 
