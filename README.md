@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/b313a9_74964b82d6304638b9294dd9c5f209ba~mv2.gif)](https://www.behance.net/)
+ [![MasterHead](https://static.wixstatic.com/media/b313a9_74964b82d6304638b9294dd9c5f209ba~mv2.gif)](https://www.behance.net/)
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">CS student exploring C++, Python, Linux, and beyond. Passionate about tech innovation. Let's connect and create!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://codepen.io/priyanshuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="priyanshuraj" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/priyanshuworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/priyanshuworld" height="30" width="40" /></a>
-<a href="https://twitter.com/devx_priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devx_priyanshu" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/priyanshu raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu raj" height="30" width="40" /></a>
 <a href="https://kaggle.com/devxpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devxpriyanshu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu_codemax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_codemax" height="30" width="40" /></a>
